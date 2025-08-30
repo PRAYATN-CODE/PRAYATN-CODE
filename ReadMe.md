@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Prayatn Soni, a passionate Frontend Developer and aspiring Full-Stack Engineer with 7+ months of industry experience at Shambho AI, where I contributed to building FAQ-based AI chatbots and enhancing real-world AI-driven web solutions. I specialize in React.js, Next.js, Redux, Tailwind CSS, and have strong backend knowledge in Node.js, Express.js, TypeScript, and MongoDB.<br><br><br>📫 Let’s connect and create something innovative together!
+👋Hi, I’m Prayatn Soni, a dedicated Web Developer with strong skills in both frontend and backend development. I have 7+ months of hands-on experience in frontend development at Shambho AI, where I worked on building FAQ-based AI chatbots and delivering real-world AI-driven web solutions. My expertise lies in React.js, Next.js, Redux, and Tailwind CSS for creating responsive and scalable UIs, along with solid backend knowledge in Node.js, Express.js, TypeScript, and MongoDB.<br><br>📫 Let’s connect and build innovative digital experiences together!
 
 
 ## 🌐 Socials:
